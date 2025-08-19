@@ -1,0 +1,5 @@
+# Ignora arquivo de especificação do projeto
+specification.md
+
+# Ignora arquivos .env
+*.env
